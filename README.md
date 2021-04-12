@@ -36,3 +36,5 @@ Demo implementation:
         
         //Call at the end
         binding.tabChanger.setup()
+
+![image](https://user-images.githubusercontent.com/66417665/114370817-834d8b00-9b9d-11eb-8b2c-3e194ed8eaea.png)
