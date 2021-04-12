@@ -1,0 +1,3 @@
+include ':TabChangerLibrary'
+include ':app'
+rootProject.name = "TabChanger"
