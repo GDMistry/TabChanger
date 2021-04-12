@@ -3,7 +3,7 @@ A library to change tabs, select one item at a time
 
 Add this in your root build.gradle at the end of repositories:
 
-allprojects {
+	allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
@@ -13,8 +13,8 @@ allprojects {
  
 Add the dependency:
 
-dependencies {
-	        implementation 'com.github.GDMistry:TabChanger:Tag'
+	dependencies {
+	        implementation 'com.github.GDMistry:TabChanger:{version}'
 	}
   
   
